@@ -1,3 +1,5 @@
+# Classifying Asteroids
+
 In this project, our goal is to predict whether or not an asteroid is hazardous using machine learning techniques. In this README.md file I will provide an overview of our project. I will also attach the dataset, the code we used, and the full written report.
 Our asteroid dataset comes from Kaggle.com, and it was recorded by the Jet Propultion Laboratory of the California Institute of Technology (JPL).
 Since potentially hazardous asteroids (PHA) can be classified by 'yes' or 'no', we decided to use logistic regression in our analysis.
